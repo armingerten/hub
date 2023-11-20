@@ -3545,10 +3545,10 @@ codemirror-rego@^1.2.2:
   resolved "https://registry.yarnpkg.com/codemirror-rego/-/codemirror-rego-1.2.3.tgz#9f61ed972680431259812c200fe6f52278429955"
   integrity sha512-XcgC68MpkI2IH9+klxKEt/3xLZTsP3/Yawu6fiXqvpviiivOdsWegITSgUTug+E8NKi0nSNIbAF+kCGeRuKtlw==
 
-codemirror@^5.65.15:
-  version "5.65.15"
-  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.65.15.tgz#66899278f44a7acde0eb641388cd563fe6dfbe19"
-  integrity sha512-YC4EHbbwQeubZzxLl5G4nlbLc1T21QTrKGaOal/Pkm9dVDMZXMH7+ieSPEOZCtO9I68i8/oteJKOxzHC2zR+0g==
+codemirror@^5.65.16:
+  version "5.65.16"
+  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.65.16.tgz#efc0661be6bf4988a6a1c2fe6893294638cdb334"
+  integrity sha512-br21LjYmSlVL0vFCPWPfhzUCT34FM/pAdK7rRIZwa0rrtrIdotvP4Oh4GUHsu2E3IrQMCfRkL/fN3ytMNxVQvg==
 
 collect-v8-coverage@^1.0.0:
   version "1.0.2"
