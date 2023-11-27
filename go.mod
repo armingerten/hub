@@ -26,7 +26,7 @@ require (
 	github.com/mitchellh/hashstructure/v2 v2.0.2
 	github.com/open-policy-agent/opa v0.58.0
 	github.com/opencontainers/image-spec v1.1.0-rc5
-	github.com/operator-framework/api v0.19.0
+	github.com/operator-framework/api v0.20.0
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/pquerna/otp v1.4.0
 	github.com/prometheus/client_golang v1.17.0
@@ -38,7 +38,7 @@ require (
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.17.0
 	github.com/stretchr/testify v1.8.4
-	github.com/tektoncd/pipeline v0.53.0
+	github.com/tektoncd/pipeline v0.53.2
 	github.com/unrolled/secure v1.13.0
 	github.com/versine/loginauth v0.0.0-20170330164406-8380ec243689
 	github.com/vincent-petithory/dataurl v1.0.0
@@ -47,7 +47,7 @@ require (
 	golang.org/x/crypto v0.15.0
 	golang.org/x/oauth2 v0.14.0
 	golang.org/x/text v0.14.0
-	google.golang.org/api v0.150.0
+	google.golang.org/api v0.151.0
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
 	helm.sh/helm/v3 v3.13.2
